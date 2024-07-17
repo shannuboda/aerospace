@@ -1,20 +1,27 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
+
 <!-- Mirrored from s7template.com/tf/cooli/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Jun 2023 07:26:15 GMT -->
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MN Aerospace & Precision Industries</title>
-     <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/countup.js@2.0.7/dist/countUp.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/waypoints@4.0.1/lib/jquery.waypoints.min.js"></script>
+
+    <!-- favicon -->
+    <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Ensure this file exists at assets/css/font-awesome.min.css -->
-<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -33,62 +40,66 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- responsive Stylesheet -->
     <link rel="stylesheet" href="assets/css/responsive.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/countup.js@2.0.7/dist/countUp.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/waypoints@4.0.1/lib/jquery.waypoints.min.js"></script>
 
 </head>
+
 <body>
-<!-- search Popup -->
-<div class="body-overlay" id="body-overlay"></div>
-<div class="search-popup" id="search-popup">
-    <form action="https://s7template.com/tf/cooli/index.html" class="search-form">
-        <div class="form-group">
+    <!-- search Popup -->
+    <div class="body-overlay" id="body-overlay"></div>
+    <div class="search-popup" id="search-popup">
+        <form action="https://s7template.com/tf/cooli/index.html" class="search-form">
+            <div class="form-group">
                 <input type="text" class="form-control" placeholder="Search.....">
-        </div>
-        <button type="submit" class="submit-btn"><i class="fa fa-search"></i></button>
-    </form>
-</div>
-<!-- //. search Popup -->
+            </div>
+            <button type="submit" class="submit-btn"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+    <!-- //. search Popup -->
 
-<!-- quoteForm Popup -->
-<div id="quoteForm" class="form_wrapper">
-    <h2 class="headline">Book An Appointment</h2>
-    <span class="subtitle">Don’t Worry </span>
-    <h3 class="title"> We are very expereianced</h3>
-    <form class="">
-    <div class="input_field"> <span><i aria-hidden="true" class="fa fa-user"></i></span>
-        <input type="text" name="nane" placeholder="Your Full Name" required />
+    <!-- quoteForm Popup -->
+    <div id="quoteForm" class="form_wrapper">
+        <h2 class="headline">Book An Appointment</h2>
+        <span class="subtitle">Don’t Worry </span>
+        <h3 class="title"> We are very expereianced</h3>
+        <form class="">
+            <div class="input_field"> <span><i aria-hidden="true" class="fa fa-user"></i></span>
+                <input type="text" name="nane" placeholder="Your Full Name" required />
+            </div>
+            <div class="input_field"> <span><i aria-hidden="true" class="fa fa-envelope"></i></span>
+                <input type="email" name="email" placeholder="Your Email" required />
+            </div>
+            <div class="input_field select_option">
+                <span><i class="fa fa-cog" aria-hidden="true"></i></span>
+                <select>
+                    <option>Select a Service</option>
+                    <option>Option 1</option>
+                    <option>Option 2</option>
+                </select>
+                <div class="select_arrow"></div>
+            </div>
+            <div class="row clearfix">
+                <div class="col_half">
+                    <div class="input_field"> <span><i aria-hidden="true" class="fa fa-phone"></i></span>
+                        <input type="text" name="phone" placeholder="Phone Number" />
+                    </div>
+                </div>
+                <div class="col_half">
+                    <div class="input_field"> <span><i aria-hidden="true" class="fa fa-map-marker"></i></span>
+                        <input type="text" name="zip" placeholder="Zip Code" required />
+                    </div>
+                </div>
+            </div>
+            <input class="button" type="submit" value="Submit" />
+        </form>
     </div>
-    <div class="input_field"> <span><i aria-hidden="true" class="fa fa-envelope"></i></span>
-        <input type="email" name="email" placeholder="Your Email" required />
-    </div>
-    <div class="input_field select_option">
-        <span><i class="fa fa-cog" aria-hidden="true"></i></span>
-        <select>
-            <option>Select a Service</option>
-            <option>Option 1</option>
-            <option>Option 2</option>
-        </select>
-        <div class="select_arrow"></div>
-        </div>
-    <div class="row clearfix">
-        <div class="col_half">
-        <div class="input_field"> <span><i aria-hidden="true" class="fa fa-phone"></i></span>
-            <input type="text" name="phone" placeholder="Phone Number" />
-        </div>
-        </div>
-        <div class="col_half">
-        <div class="input_field"> <span><i aria-hidden="true" class="fa fa-map-marker"></i></span>
-            <input type="text" name="zip" placeholder="Zip Code" required />
-        </div>
-        </div>
-    </div>
-    <input class="button" type="submit" value="Submit" />
-    </form>
-</div>
-<!-- quoteForm end Popup -->
+    <!-- quoteForm end Popup -->
 
-<!-- info bar & support bar area start -->
-<?php include('includes/header.php');?>
-<!-- navbar area end -->
+    <!-- info bar & support bar area start -->
+    <?php include('includes/header.php');?>
+    <!-- navbar area end -->
     <div class="header-area">
         <!-- header slider area start -->
         <div class="header-slider-area">
@@ -96,10 +107,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-8 col-lg-10">
-                            <div class="header-inner"><!-- header inner -->
+                            <div class="header-inner">
+                                <!-- header inner -->
                                 <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span>
                                 <h1 class="title wow fadeInRight">Towards World Class Manufacturing</h1>
-                                <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p>
+                                <p>MN Aerospace and Precision Industries is a Aerospace start up company was established
+                                    on 2020 for manufacture of aerospace components and its sub assemblies.</p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
                                 </div>
@@ -112,10 +125,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
-                            <div class="header-inner"><!-- header inner -->
+                            <div class="header-inner">
+                                <!-- header inner -->
                                 <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
                                 <h1 class="title wow fadeInRight">The future is our starting point</h1>
-                                <p>Every day, we’re working to help move the world forward. For our industry and customers today, and for generations to come. The future of flight starts now.</p>
+                                <p>Every day, we’re working to help move the world forward. For our industry and
+                                    customers today, and for generations to come. The future of flight starts now.</p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
                                 </div>
@@ -128,10 +143,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
-                            <div class="header-inner"><!-- header inner -->
+                            <div class="header-inner">
+                                <!-- header inner -->
                                 <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
                                 <h1 class="title wow fadeInRight">MN Aerospace for a safe and united world</h1>
-                                <p>MN Aerospace always has been at the forefront of innovating new technologies, with a pioneering spirit that has redefined the aerospace industry. </p>
+                                <p>MN Aerospace always has been at the forefront of innovating new technologies, with a
+                                    pioneering spirit that has redefined the aerospace industry. </p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
                                 </div>
@@ -144,10 +161,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
-                            <div class="header-inner"><!-- header inner -->
+                            <div class="header-inner">
+                                <!-- header inner -->
                                 <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
                                 <h1 class="title wow fadeInRight">Towards World Class Manufacturing</h1>
-                                <p>Design Investigation of Potential Long-Range Hydrogen Combustion Blended Wing Body Aircraft with Future Technologies.</p>
+                                <p>Design Investigation of Potential Long-Range Hydrogen Combustion Blended Wing Body
+                                    Aircraft with Future Technologies.</p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
                                 </div>
@@ -158,53 +177,54 @@
             </div>
         </div>
     </div>
-<!-- cooli item area start -->
-<div class="cooli-item-area pd-bottom-100">
-    <div class="container cooli-item-bg">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="item-carousel owl-carousel">
-                    <div class="single-cooli-item item-bg">
-                        <div class="icon">
+    <!-- cooli item area start -->
+    <div class="cooli-item-area pd-bottom-100">
+        <div class="container cooli-item-bg">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="item-carousel owl-carousel">
+                        <div class="single-cooli-item item-bg">
+                            <!-- <div class="icon">
                             <i class="flaticon-shield" aria-hidden="true"></i>
+                            <img src="./shield.png" alt="">
+                        </div> -->
+                            <h4 class="title">Company</h4>
+                            <p class="details">Part of Aerospace Group</p>
+                            <div class="btn-wrapper text-center">
+                                <!-- <a href="#" class="read">Read More</a> -->
+                            </div>
                         </div>
-                        <h4 class="title">Company</h4>
-                        <p class="details">Part of Aerospace Group</p>
-                        <div class="btn-wrapper text-center">
-                            <!-- <a href="#" class="read">Read More</a> -->
+                        <div class="single-cooli-item active item-bg">
+                            <!-- <div class="icon">
+                        <img src="./shield.png" alt="">
+                        </div> -->
+                            <h4 class="title">Engineering & Design</h4>
+                            <p class="details">High-end Design Software’s</p>
+                            <div class="btn-wrapper text-center">
+                                <!-- <a href="#" class="read">Read More</a> -->
+                            </div>
                         </div>
-                    </div>
-                    <div class="single-cooli-item active item-bg">
-                        <div class="icon">
+                        <div class="single-cooli-item item-bg">
+                            <!-- <div class="icon">
+                        <img src="./shield.png" alt="">
+                        </div> -->
+                            <h4 class="title">Infrastructure </h4>
+                            <p class="details">State-of-art Precision Machines</p>
+                            <div class="btn-wrapper text-center">
+                                <!-- <a href="#" class="read">Read More</a> -->
+                            </div>
+                        </div>
+                        <div class="single-cooli-item item-bg">
+                            <!-- <div class="icon">
                             <i class="flaticon-shield" aria-hidden="true"></i>
+                        </div> -->
+                            <h4 class="title">Packaging & Forwarding </h4>
+                            <p class="details">Highest Product Safety</p>
+                            <div class="btn-wrapper text-center">
+                                <!-- <a href="#" class="read">Read More</a> -->
+                            </div>
                         </div>
-                        <h4 class="title">Engineering & Design</h4>
-                        <p class="details">High-end Design Software’s</p>
-                        <div class="btn-wrapper text-center">
-                            <!-- <a href="#" class="read">Read More</a> -->
-                        </div>
-                    </div>
-                    <div class="single-cooli-item item-bg">
-                        <div class="icon">
-                            <i class="flaticon-shield" aria-hidden="true"></i>
-                        </div>
-                        <h4 class="title">Infrastructure </h4>
-                        <p class="details">State-of-art Precision Machines</p>
-                        <div class="btn-wrapper text-center">
-                            <!-- <a href="#" class="read">Read More</a> -->
-                        </div>
-                    </div>
-                    <div class="single-cooli-item item-bg">
-                        <div class="icon">
-                            <i class="flaticon-shield" aria-hidden="true"></i>
-                        </div>
-                        <h4 class="title">Packaging & Forwarding </h4>
-                        <p class="details">Highest Product Safety</p>
-                        <div class="btn-wrapper text-center">
-                            <!-- <a href="#" class="read">Read More</a> -->
-                        </div>
-                    </div>
-                    <!-- <div class="single-cooli-item item-bg">
+                        <!-- <div class="single-cooli-item item-bg">
                         <div class="icon">
                             <i class="flaticon-payment" aria-hidden="true"></i>
                         </div>
@@ -214,77 +234,83 @@
                             <a href="#" class="read">Read More</a>
                         </div>
                     </div> -->
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- cooli item  end -->
+    <!-- cooli item  end -->
 
-<!-- Start About us area  -->
-<div class="about-us-area about-bg">
-    <div class="container-fluid">
-        <div class="row justify-content-start">
-            <div class="col-lg-5 remove-col-padding">
-                <div class="about-image">
-                    <img src="assets/img/bg/about-bg.png" class="img-fluid" alt="about image">
-                    <!-- <div class="hover">
+    <!-- Start About us area  -->
+    <div class="about-us-area about-bg">
+        <div class="container-fluid">
+            <div class="row justify-content-start">
+                <div class="col-lg-5 remove-col-padding">
+                    <div class="about-image">
+                        <img src="assets/img/bg/about-bg.png" class="img-fluid" alt="about image">
+                        <!-- <div class="hover">
                         <a href="https://www.youtube.com/watch?v=s6NHxfKUkUo" target="_blank" class="btn-ripple-animate video-play-btn video mfp-iframe">
                             <i class="fa fa-play"></i>
                         </a>
                     </div> -->
-                </div>
-            </div>
-            <div class="col-lg-7 align-self-center">
-                <div class="about-area-right mb-0">
-                    <div class="section-title about text-left mb-0">
-                        <h2>About MN Aerospace & Precision Industries </h2>
-                        <p>MN Aerospace leverages the strengths of their highly experienced workforce, & array of technologies to manufacture, aggregate & assemble components with varying specifications that meet customers exact needs.</p>
                     </div>
-                    <div class="faq-wrap">
-                        <ul class="accordion">
-                            <li class="active">
-                                <div class="question"> 
-                                    <h4> Company History</h4> 
-                                    <div class="plus-minus-toggle collapsed"></div>
-                                </div>
-                                <div class="answer">MN Aerospace and Precision Industries was established in 2020 to manufacture metallic products for exports.</div>
-                            </li>
-                            <li>
-                                <div class="question">
-                                    <h4> Quality </h4>
-                                    <div class="plus-minus-toggle collapsed"></div>
-                                </div>
-                                <div class="answer">The scope of MN Aerospace and Precision Industries Quality Management System applies to “Manufacture, Assembly of Machined Metal Components for Defence and Aerospace Industries.”</div>
+                </div>
+                <div class="col-lg-7 align-self-center">
+                    <div class="about-area-right mb-0">
+                        <div class="section-title about text-left mb-0">
+                            <h2>About MN Aerospace & Precision Industries </h2>
+                            <p>MN Aerospace leverages the strengths of their highly experienced workforce, & array of
+                                technologies to manufacture, aggregate & assemble components with varying specifications
+                                that meet customers exact needs.</p>
+                        </div>
+                        <div class="faq-wrap">
+                            <ul class="accordion">
+                                <li class="active">
+                                    <div class="question">
+                                        <h4> Company History</h4>
+                                        <div class="plus-minus-toggle collapsed"></div>
+                                    </div>
+                                    <div class="answer">MN Aerospace and Precision Industries was established in 2020 to
+                                        manufacture metallic products for exports.</div>
                                 </li>
-                            <li>
-                                <div class="question">
-                                    <h4> Facilities</h4> 
-                                    <div class="plus-minus-toggle collapsed"></div>
-                                </div>
-                                <div class="answer">MN Aerospace and Precision Industries was established in 2020 lead by young entrepreneur to manufacture metallic products for exports.</div>
-                            </li>
-                            <!-- <li>
+                                <li>
+                                    <div class="question">
+                                        <h4> Quality </h4>
+                                        <div class="plus-minus-toggle collapsed"></div>
+                                    </div>
+                                    <div class="answer">The scope of MN Aerospace and Precision Industries Quality
+                                        Management System applies to “Manufacture, Assembly of Machined Metal Components
+                                        for Defence and Aerospace Industries.”</div>
+                                </li>
+                                <li>
+                                    <div class="question">
+                                        <h4> Facilities</h4>
+                                        <div class="plus-minus-toggle collapsed"></div>
+                                    </div>
+                                    <div class="answer">MN Aerospace and Precision Industries was established in 2020
+                                        lead by young entrepreneur to manufacture metallic products for exports.</div>
+                                </li>
+                                <!-- <li>
                                 <div class="question">
                                         <h4>  Financing Available</h4> 
                                     <div class="plus-minus-toggle collapsed"></div>
                                 </div>
                                 <div class="answer">Takimata sanctus est Lorem ipsum dolor sit amet. publishing rem Ipsu default model text. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</div>
                             </li> -->
-                        </ul>
-                    </div>
-                    <div class="btn-wrapper">
-                        <a href="about.php" class="btn-hrv">More About Here</a>
+                            </ul>
+                        </div>
+                        <div class="btn-wrapper">
+                            <a href="about.php" class="btn-hrv">More About Here</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- End About Us area  -->
+    <!-- End About Us area  -->
 
-<!-- Ask area start -->
-<!-- <div class="ask-area ask-bg">
+    <!-- Ask area start -->
+    <!-- <div class="ask-area ask-bg">
     <div class="container">
         <div class="row justify-content-around">
             <div class="col-lg-6 col-md-7">
@@ -302,10 +328,10 @@
         </div>
     </div>
 </div> -->
-<!-- End Ask area  -->
+    <!-- End Ask area  -->
 
-<!-- service area start -->
-<!-- <div class="service-area pd-top-100 pd-bottom-70">
+    <!-- service area start -->
+    <!-- <div class="service-area pd-top-100 pd-bottom-70">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-8 text-center">
@@ -377,51 +403,110 @@
         </div>
     </div>
 </div> -->
-<!-- service area end -->
+    <!-- service area end -->
 
-<!--Counterup area start  -->
-<div class="counterup-area pd-top-90 pd-bottom-95" id="counterup">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-4">
-                <div class="countr lt">
-                    <span class="counter">45</span>
-                    <h3 class="title">Customers</h3>
-                    <p>Customer very satified with our work</p>
-                </div>
-            </div>
-           <div class="col-lg-4 col-md-4">
-                <div class="countr">
-                    <span class="counter">3</span>
-                    <h3 class="title">Our Branches</h3>
-                    <p>3 Branches in Karnataka</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-4">
-                <div class="countr">
-                    <span class="counter">225</span>
-                    <h3 class="title">Successfully work Completed</h3>
-                    <p>Customer very satified with our work</p>
-                </div>
-            </div>
-        </div>
+    <!--Counterup area start  -->
 
-        <div class="row justify-content-center">
-            <div class="col-xl-7 col-lg-9">
-                <div class="contacy">
-                    <p>Aerospace Technology includes the construction, testing, and maintenance of aircraft and space-related vehicles. Aerospace technicians may be involved in the assembly, service, testing, operation, and repair of systems associated with dependable and reusable space launch vehicles and related ground support equipment.</p>
-                    <div class="btn-wrapper">
-                        <a href="" class="boxed-btn btn-hrv"> Aerospace Technology</a>
+    <div class="counterup-area pd-top-90 pd-bottom-95" id="counterup">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="countr lt">
+                        <span class="counter" data-target="45">0</span>
+                        <h3 class="title">Customers</h3>
+                        <p>Customer very satisfied with our work</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="countr">
+                        <span class="counter" data-target="3">0</span>
+                        <h3 class="title">Our Branches</h3>
+                        <p>3 Branches in Karnataka</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="countr">
+                        <span class="counter" data-target="225">0</span>
+                        <h3 class="title">Successfully work Completed</h3>
+                        <p>Customer very satisfied with our work</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const counters = document.querySelectorAll('.counter');
+                const speed = 1000; // Adjust this value for slower counting (lower is slower)
+
+                function startCounters() {
+                    counters.forEach(counter => {
+                        const updateCount = () => {
+                            const target = +counter.getAttribute('data-target');
+                            const count = +counter.innerText;
+
+                            // Lower the increment to slow down the counting
+                            const inc = target / speed;
+
+                            if (count < target) {
+                                counter.innerText = Math.ceil(count + inc);
+                                setTimeout(updateCount,
+                                100); // Adjust timeout for smoother animation
+                            } else {
+                                counter.innerText = target;
+                            }
+                        };
+
+                        updateCount();
+                    });
+                }
+
+                // Function to check if element is in view
+                function isInView(element) {
+                    const rect = element.getBoundingClientRect();
+                    return (
+                        rect.top >= 0 &&
+                        rect.left >= 0 &&
+                        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+                    );
+                }
+
+                // Check if counters are in view on page load
+                if (isInView(counters[0])) {
+                    startCounters();
+                }
+
+                // Check if counters come into view on scroll
+                window.addEventListener('scroll', function() {
+                    if (isInView(counters[0])) {
+                        startCounters();
+                        // Remove event listener after counters start if needed
+                        window.removeEventListener('scroll', arguments.callee);
+                    }
+                });
+
+            });
+            </script>
+            <div class="row justify-content-center">
+                <div class="col-xl-7 col-lg-9">
+                    <div class="contacy">
+                        <p>Aerospace Technology includes the construction, testing, and maintenance of aircraft and
+                            space-related vehicles. Aerospace technicians may be involved in the assembly, service,
+                            testing, operation, and repair of systems associated with dependable and reusable space
+                            launch vehicles and related ground support equipment.</p>
+                        <div class="btn-wrapper">
+                            <a href="" class="boxed-btn btn-hrv"> Aerospace Technology</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!--Counterup area end  -->
+    <!--Counterup area end  -->
 
-<!-- facilities area start -->
-<!-- <div class="facilities-area pd-top-100 pd-bottom-70">
+    <!-- facilities area start -->
+    <!-- <div class="facilities-area pd-top-100 pd-bottom-70">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
@@ -469,175 +554,200 @@
         </div>
     </div>
 </div> -->
-<!-- facilities item  end -->
+    <!-- facilities item  end -->
 
-<!-- project start -->
-<div class="project-area pd-top-100 pd-bottom-70" id="project">
-    <div class="project-bg"></div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-xl-7 col-lg-9 text-center">
-                <div class="section-title white project">
-                    <span class="subtitle">products</span>
-                    <h2 class="title">Products/Outreach</h2>
-                    <p>Equipped with sophisticated state-of-art manufacturing facility and extensive production capabilities MN Arerospace produces components & assemblies to stringent specifications. </p>
+    <!-- project start -->
+    <div class="project-area pd-top-100 pd-bottom-70" id="project">
+        <div class="project-bg"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-7 col-lg-9 text-center">
+                    <div class="section-title white project">
+                        <span class="subtitle">products</span>
+                        <h2 class="title">Products/Outreach</h2>
+                        <p>Equipped with sophisticated state-of-art manufacturing facility and extensive production
+                            capabilities MN Arerospace produces components & assemblies to stringent specifications.
+                        </p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="project-masonry-wrapper">
-                    <div class="our-project-menu">
-                        <ul>
-                            <li class="active" data-filter="*">All</li>
-                            <!-- <li data-filter=".remote">Remote Air Conditioner</li>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="project-masonry-wrapper">
+                        <div class="our-project-menu">
+                            <ul>
+                                <li class="active" data-filter="*">All</li>
+                                <!-- <li data-filter=".remote">Remote Air Conditioner</li>
                             <li data-filter=".gloves">Gloves Checks</li>
                             <li data-filter=".conditioner">Conditioner Thermometer</li> -->
-                        </ul>
-                    </div>
-                    <div class="project-masonry" id="project-masonry">
-                        <div class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size remote">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/1.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/1.jpg" class="imagepopup popup-link"  data-effect="zoomInUp">
-                                             <i class="fa fa-search-plus" aria-hidden="true"></i></a>
-                                        </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Aero Structure components</h4></a>
-                                        </div>
-                                    </div>
-                                </div><br>
-                                <h3>Aero Structure component.</h3>
-                            </div>
+                            </ul>
                         </div>
-                
-                        <div class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size gloves">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/4.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/4.jpg" class="imagepopup popup-link"  data-effect="zoomInUp">
-                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                        <div class="project-masonry" id="project-masonry">
+                            <div class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size remote">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/1.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/1.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Aero Structure components</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Aero engine components</h4></a>
-                                        </div>
-                                    </div>
-                                </div><br>
-                                <h3>Aero engine component.</h3>
+                                    </div><br>
+                                    <h3>Aero Structure component.</h3>
+                                </div>
                             </div>
-                        </div>
-                
-                        <div class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size conditioner remote">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/7.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/7.jpg"  class="imagepopup popup-link"  data-effect="zoomInUp">
-                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+
+                            <div class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size gloves">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/4.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/4.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Aero engine components</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Helicracfter components</h4></a>
-                                        </div>
-                                    </div>
-                                </div><br>
-                                <h3>Helicracfter component.</h3>
+                                    </div><br>
+                                    <h3>Aero engine component.</h3>
+                                </div>
                             </div>
-                        </div>
-                
-                        <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding conditioner">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/10.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/10.jpg"  class="imagepopup popup-link"  data-effect="zoomInUp">
-                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+
+                            <div
+                                class="col-lg-4 col-md-6 filtr-item yg_filter_item_padding grid-size conditioner remote">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/7.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/7.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Helicracfter components</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Missle components and System</h4></a>
-                                        </div>
-                                    </div>
-                                </div><br>
-                                <h3>Missle component.</h3>
+                                    </div><br>
+                                    <h3>Helicracfter component.</h3>
+                                </div>
                             </div>
-                        </div>
-                
-                        <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding gloves">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/11.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/11.jpg"  class="imagepopup popup-link"  data-effect="zoomInUp">
-                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+
+                            <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding conditioner">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/10.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/10.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Missle components and System</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Submarines component and its sub assembly</h4></a>
-                                        </div>
-                                    </div>
-                                </div><br>
-                                <h3>Submarines component .</h3>
+                                    </div><br>
+                                    <h3>Missle component.</h3>
+                                </div>
                             </div>
-                        </div>
-                
-                        <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding remote gloves">
-                            <div class="inner-box">
-                                <div class="image">
-                                    <img src="assets/img/products/14.jpg" alt="">
-                                    <div class="img-overlay">
-                                        <div class="icon"><a href="assets/img/products/14.jpg"  class="imagepopup popup-link"  data-effect="zoomInUp">
-                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+
+                            <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding gloves">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/11.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/11.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Submarines component and its sub assembly</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="content-area">
-                                            <a href="#"><h4 class="title">Automobiles component and its sub assembly</h4></a>
+                                    </div><br>
+                                    <h3>Submarines component .</h3>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 filtr-item grid-size yg_filter_item_padding remote gloves">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/img/products/14.jpg" alt="">
+                                        <div class="img-overlay">
+                                            <div class="icon"><a href="assets/img/products/14.jpg"
+                                                    class="imagepopup popup-link" data-effect="zoomInUp">
+                                                    <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                            </div>
+                                            <div class="content-area">
+                                                <a href="#">
+                                                    <h4 class="title">Automobiles component and its sub assembly</h4>
+                                                </a>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div><br>
-                                <h3>Automobiles component.</h3>
+                                    </div><br>
+                                    <h3>Automobiles component.</h3>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- <div class="row justify-content-center">
+            <!-- <div class="row justify-content-center">
             <div class="col-lg-2">
                 <div class="btn-wrapper text-center">
                     <a href="#" class="boxed-btn btn-rounded">View All Products</a>
                 </div>
             </div>
         </div> -->
+        </div>
+
+
+
     </div>
+    <!-- project end  -->
 
-   
-    
-</div>
-<!-- project end  -->
-
-<!-- cta start -->
-<div class="cta-area cta-bg">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="cta-wrapper">
-                    <div class="left-content">
-                        <div  class="single-info-item">
-                            <div class="icon">
-                                <i class="fa fa-envelope"></i>
-                            </div>
-                            <div class="content">
-                                <span class="details">Enquiry Here <br> <a href="mailto:info.mnaerospace@gmail.com">info.mnaerospace@gmail.com</a> </span>
+    <!-- cta start -->
+    <div class="cta-area cta-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="cta-wrapper">
+                        <div class="left-content">
+                            <div class="single-info-item">
+                                <div class="icon">
+                                    <i class="fa fa-envelope"></i>
+                                </div>
+                                <div class="content">
+                                    <span class="details">Enquiry Here <br> <a
+                                            href="mailto:info.mnaerospace@gmail.com">info.mnaerospace@gmail.com</a>
+                                    </span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="right-content">
-                        <div  class="single-info-item">
-                            <div class="icon">
-                                <i class="fa fa-phone"></i>
-                            </div>
-                            <div class="content">
-                                <span class="details">Enquiry Here <br> <a href="tel:+91 9611636088" class="details">+91 9611636088 </a></span>
+                        <div class="right-content">
+                            <div class="single-info-item">
+                                <div class="icon">
+                                    <i class="fa fa-phone"></i>
+                                </div>
+                                <div class="content">
+                                    <span class="details">Enquiry Here <br> <a href="tel:+91 9611636088"
+                                            class="details">+91 9611636088 </a></span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -645,38 +755,39 @@
             </div>
         </div>
     </div>
-</div>
-<!-- cta end  -->
+    <!-- cta end  -->
 
-<!-- history start -->
-<div class="history-area history-bg">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 text-center">
-                <div class="section-title white">
-                    <span class="subtitle">Established on 2020</span>
-                    <h2 class="title">Watch Us Here</h2>
+    <!-- history start -->
+    <div class="history-area history-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <div class="section-title white">
+                        <span class="subtitle">Established on 2020</span>
+                        <h2 class="title">Watch Us Here</h2>
+                    </div>
                 </div>
-            </div>  
-            <div class="col-lg-8 text-center">
-                <div class="history-content">
-                    <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p>
+                <div class="col-lg-8 text-center">
+                    <div class="history-content">
+                        <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020
+                            for manufacture of aerospace components and its sub assemblies.</p>
+                    </div>
+                    <div class="video">
+                        <a href="assets/PUN_1800.MOV" target="_blank"
+                            class="btn-ripple-animate video-popup mfp-iframe play-icon-pulse">
+                            <i class="fa fa-play"></i>
+                        </a>
+                    </div>
                 </div>
-                <div class="video">
-                    <a href="assets/PUN_1800.MOV" target="_blank" class="btn-ripple-animate video-popup mfp-iframe play-icon-pulse">
-                        <i class="fa fa-play"></i>
-                    </a>
-                </div>
+
             </div>
-            
-        </div>
-        
-    </div>
-</div>
-<!-- history end  -->
 
-<!-- choose area start -->
-<!-- <div class="choose-area choose-bg pd-top-100">
+        </div>
+    </div>
+    <!-- history end  -->
+
+    <!-- choose area start -->
+    <!-- <div class="choose-area choose-bg pd-top-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -744,10 +855,10 @@
         </div>
     </div>
 </div> -->
-<!-- choose area end -->
+    <!-- choose area end -->
 
-<!-- Latest Blog area start  -->
-<!-- <div class="blog-area blog-bg padding-top-90 pd-bottom-70">
+    <!-- Latest Blog area start  -->
+    <!-- <div class="blog-area blog-bg padding-top-90 pd-bottom-70">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
@@ -802,10 +913,10 @@
         </div>
     </div>
 </div> -->
-<!-- Latest Blog end  -->
+    <!-- Latest Blog end  -->
 
-<!-- testimonial start -->
-<!-- <div class="testimonial-area testimonial-bg">
+    <!-- testimonial start -->
+    <!-- <div class="testimonial-area testimonial-bg">
     <div class="customer-feedback">
         <div class="container text-center">
             
@@ -862,9 +973,9 @@
         </div>
     </div>
 </div> -->
-<!-- testimonial end  -->
-<!-- newsletter start -->
-<!-- <div class="cta-area newsletter">
+    <!-- testimonial end  -->
+    <!-- newsletter start -->
+    <!-- <div class="cta-area newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -895,30 +1006,30 @@
         </div>
     </div>
 </div> -->
-<!-- newsletter end  -->
+    <!-- newsletter end  -->
 
-<!-- footer area start -->
-<?php include('includes/footer.php');?>
-<!-- footer area end -->
+    <!-- footer area start -->
+    <?php include('includes/footer.php');?>
+    <!-- footer area end -->
 
 
 
-<!-- back to top area start -->
-<div class="back-to-top">
-    <span class="back-top"><i class="fa fa-angle-up"></i></span>
-</div>
-<!-- back to top area end -->
+    <!-- back to top area start -->
+    <div class="back-to-top">
+        <span class="back-top"><i class="fa fa-angle-up"></i></span>
+    </div>
+    <!-- back to top area end -->
 
-<!-- preloader area start -->
-<div class="preloader" id="preloader">
-    <div class="preloader-inner">
-        <div class="spinner">
-            <div class="dot1"></div>
-            <div class="dot2"></div>
+    <!-- preloader area start -->
+    <div class="preloader" id="preloader">
+        <div class="preloader-inner">
+            <div class="spinner">
+                <div class="dot1"></div>
+                <div class="dot2"></div>
+            </div>
         </div>
     </div>
-</div>
-<!-- preloader area end -->
+    <!-- preloader area end -->
 
     <!-- jquery -->
     <script src="assets/js/jquery.min.js"></script>
@@ -944,10 +1055,44 @@
     <script src="assets/js/slick.min.js"></script>
     <!-- Slick Animation -->
     <script src="assets/js/slick-animation.js"></script>
-     <!-- main js -->
+    <!-- main js -->
     <script src="assets/js/main.js"></script>
 
+
 </body>
+<script src="https://cdn.jsdelivr.net/npm/countup.js@2.0.7/dist/countUp.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const counters = document.querySelectorAll('.counter');
+
+    const options = {
+        threshold: 1.0
+    };
+
+    function startCountUp(entries, observer) {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const counter = entry.target;
+                const target = counter.getAttribute('data-target');
+                const countUp = new CountUp(counter, target);
+                if (!countUp.error) {
+                    countUp.start();
+                } else {
+                    console.error(countUp.error);
+                }
+                observer.unobserve(counter);
+            }
+        });
+    }
+
+    const observer = new IntersectionObserver(startCountUp, options);
+
+    counters.forEach(counter => {
+        observer.observe(counter);
+    });
+});
+</script>
 
 <!-- Mirrored from s7template.com/tf/cooli/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Jun 2023 07:26:30 GMT -->
+
 </html>

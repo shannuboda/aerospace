@@ -109,7 +109,7 @@
                 nav: true,
                 smartSpeed: 3000,
                 responsiveClass: true,
-                navText: ['<span class="flaticon-left-chevron"></span>','<span class="flaticon-right"></span>'],
+                navText: ['<img src = "./img/left-chevron.png" style="margin-top: 0.4rem!important;">','<img src = "./img/right-chevron.png" style="margin-top: 0.4rem!important;">'],
                 responsive: {
                     0: {
                         items: 1,

@@ -31,10 +31,21 @@
                     </div>
                     <div class="right-content">
                         <ul class="info-items">
+                            <style>
+                                .im-icon{
+                                    width: 50px !important;
+                                   
+                                }
+                                .icon{
+                                    margin-right:0rem!important;
+                                }
+                            </style>
                             <li>
                                 <div  class="single-info-item">
+                              
                                     <div class="icon">
-                                        <i class="flaticon-emergency-call" aria-hidden="true"></i>
+                                   
+                                    <img src="./24-hours-support.gif" alt="" class="im-icon">
                                     </div>
                                     <div class="content">
                                         <h5 class="title">Call Us:</h5>
@@ -45,7 +56,9 @@
                             <li>
                                 <div  class="single-info-item">
                                     <div class="icon">
-                                        <i class="flaticon-gauge" aria-hidden="true"></i>
+                                        <!-- <i class="flaticon-gauge" aria-hidden="true"></i> -->
+                                    <img src="./session.gif" alt="" class="im-icon">
+
                                     </div>
                                     <div class="content">
                                         <h5 class="title">Open Time:</h5>
