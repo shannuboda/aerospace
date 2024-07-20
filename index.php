@@ -183,7 +183,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="item-carousel owl-carousel">
-                        <div class="single-cooli-item item-bg">
+                        <div class="single-cooli-item active item-bg">
                             <!-- <div class="icon">
                             <i class="flaticon-shield" aria-hidden="true"></i>
                             <img src="./shield.png" alt="">
@@ -204,7 +204,7 @@
                                 <!-- <a href="#" class="read">Read More</a> -->
                             </div>
                         </div>
-                        <div class="single-cooli-item item-bg">
+                        <div class="single-cooli-item active item-bg">
                             <!-- <div class="icon">
                         <img src="./shield.png" alt="">
                         </div> -->
@@ -214,7 +214,7 @@
                                 <!-- <a href="#" class="read">Read More</a> -->
                             </div>
                         </div>
-                        <div class="single-cooli-item item-bg">
+                        <div class="single-cooli-item active item-bg">
                             <!-- <div class="icon">
                             <i class="flaticon-shield" aria-hidden="true"></i>
                         </div> -->

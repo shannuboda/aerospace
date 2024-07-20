@@ -374,10 +374,7 @@
             });
         }
         // Item cooli select
-        $('.single-cooli-item').hover(function(){
-            $('.single-cooli-item').removeClass('active');
-            $(this).addClass('active');
-        });
+       
          // End
 
   
