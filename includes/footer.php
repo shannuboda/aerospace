@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-widget widget">
                        <div class="about_us_widget">
-                            <a href="index.php" class="footer-logo"> <img src="assets/img/footer-logo.png" alt="footer logo"></a>
+                            <a href="index.php" class="footer-logo"> <img src="assets/img/edit/logo.png" alt="footer logo"></a>
                             <ul class="contact_info_list">
                                 <li class="single-info-item">
                                     <div class="icon">
@@ -32,8 +32,8 @@
                                         <i class="fa fa-envelope-o"></i>
                                     </div>
                                     <div class="details">
-                                        <a href="mailto:info.mnaerospace@gmail.com">
-                                            info.mnaerospace@gmail.com
+                                        <a href="mailto:info.JNRYaerospace@gmail.com">
+                                            info.JNRYaerospace@gmail.com
                                         </a>
                                     </div>
                                 </li>
@@ -67,7 +67,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget widget ">
                         <h4 class="widget-title">Contact us</h4>
-                        <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p>
+                        <p>JNRY Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p>
                         <ul class="footer-social"> 
                             <li><a href="#"> <i class="fa fa-facebook-f" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> 
@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-menu">
-                        <span> &copy; 2023, MN Aerospace all right reserved.</span> Developed By <a href="https://techmanyata.com/" target="_blank"> TechManyata </a>
+                        <span> &copy; 2024, JNRY Aerospace all right reserved.</span> Developed By <a href="https://www.atrisol.com/" target="_blank"> Atrisol Technologies Pvt Ltd </a>
                     </div>
                 </div>
             </div>

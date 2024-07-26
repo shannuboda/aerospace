@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MN Aerospace & Precision Industries</title>
      <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+     <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->

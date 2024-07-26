@@ -24,8 +24,8 @@
             fadeSpeed: 1000,
             slidesToShow: 1,
             slidesToScroll: 1,
-            prevArrow: '<a class="slick-prev"><img src="assets/img/icon/right-arrow-01.png" alt="Arrow Icon"></a>',
-            nextArrow: '<a class="slick-next"><img src="assets/img/icon/left-arrow-01.png" alt="Arrow Icon"></a>',
+            prevArrow: '<a class="slick-prev"><img src="assets/img/edit/sustainable-travel-reverse.gif" alt="Arrow Icon"></a>',
+            nextArrow: '<a class="slick-next"><img src="assets/img/edit/sustainable-travel.gif" alt="Arrow Icon"></a>',
             responsive: [
               {
                 breakpoint: 1024,

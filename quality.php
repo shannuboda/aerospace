@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MN Aerospace & Precision Industries</title>
+    <title>JNRY Aerospace & Precision Industries</title>
      <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+     <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -112,7 +112,7 @@
                 <div class="services-content">
                     <h3 class="title">Aerospace</h3>
                         <div class="details">
-                            <p>The scope of MN Aerospace and Precision Industries Quality Management System applies to “Manufacture, Assembly of Machined Metal Components for Defence and Aerospace Industries.”</p>
+                            <p>The scope of JNRY Aerospace and Precision Industries Quality Management System applies to “Manufacture, Assembly of Machined Metal Components for Defence and Aerospace Industries.”</p>
                         </div>
                         <div class="details">
                             <p>We are committed to implement Quality Management System requirements and provides Products that meets all Specified requirements for Safety, Reliability and Delivery.</p>

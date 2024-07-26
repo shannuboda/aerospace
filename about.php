@@ -2,15 +2,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from s7template.com/tf/cooli/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Jun 2023 07:26:15 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MN Aerospace & Precision Industries</title>
+    <title>JNRY Aerospace & Precision Industries</title>
      <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+     <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -96,7 +95,7 @@
                         <li><a href="index.php">Home</a> </li>
                         <li>About Us</li>
                     </ul>
-                    <h5 class="title">Welcome to MN Aerospace & Precision Industries Company</h5>
+                    <h5 class="title">Welcome to JNRY Aerospace & Precision Industries Company</h5>
                 </div>
             </div>
         </div>
@@ -123,7 +122,7 @@
             <div class="col-lg-10">
                 <div class="about-area-right">
                     <div class="section-title about text-left">
-                        <span class="subtitle">About the MN Aerospace & Precision Industries  </span>
+                        <span class="subtitle">About the JNRY Aerospace & Precision Industries  </span>
                         <!-- <h2 class="title about-page">Well done of 18 years experience cooly agency</h2> -->
                     </div>
                     <div class="faq-wrap about-page">
@@ -132,9 +131,9 @@
                                 <div class="question"> <h4> Company History  </h4> 
                                     <div class="plus-minus-toggle collapsed"></div>
                                 </div>
-                                <div class="answer">MN Aerospace and Precision Industries was established in 2020 to manufacture metallic products for exports . Since then, the company is into manufacturing and supplying of world class engineering products for leading aerospace sectors. <br><br>
+                                <div class="answer">JNRY Aerospace and Precision Industries was established in 2020 to manufacture metallic products for exports . Since then, the company is into manufacturing and supplying of world class engineering products for leading aerospace sectors. <br><br>
                                      Over the years, the company has forayed into manufacturing of high quality precision engineered components and subassemblies for Defence , Aerospace and Automobile Sectors.<br><br>
-                                     MN Aerospace and Precision Industries has made remarkable contributions in the development of cutting edge Aerospace, Defence Technologies and Systems. The above  systems and products developed by MN Aerospace and Precision Industries  have ensured enhanced operational preparedness of Aerospace, Defence and Automobiles sectors and are contributing to self-reliance .  </div>
+                                     JNRY Aerospace and Precision Industries has made remarkable contributions in the development of cutting edge Aerospace, Defence Technologies and Systems. The above  systems and products developed by JNRY Aerospace and Precision Industries  have ensured enhanced operational preparedness of Aerospace, Defence and Automobiles sectors and are contributing to self-reliance .  </div>
                             </li>
                             <li>
                                 <div class="question"><h4> Management </h4>

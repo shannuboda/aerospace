@@ -10,14 +10,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MN Aerospace & Precision Industries</title>
+    <title>JNRY Aerospace & Precision Industries</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/countup.js@2.0.7/dist/countUp.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/waypoints@4.0.1/lib/jquery.waypoints.min.js"></script>
 
     <!-- favicon -->
-    <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+    <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Ensure this file exists at assets/css/font-awesome.min.css -->
@@ -103,15 +103,15 @@
     <div class="header-area">
         <!-- header slider area start -->
         <div class="header-slider-area">
-            <div class="header-slider-item header-bg" style="background-image:url(assets/img/bg/slide-01.jpg);">
+            <div class="header-slider-item header-bg" style="background-image:url(assets/img/edit/mark_II_1687325560812_1687325569137.avif);">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-8 col-lg-10">
                             <div class="header-inner">
                                 <!-- header inner -->
-                                <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span>
+                                <span class="subtitle">Welcome to JNRY Aerospace & Precision Industries</span>
                                 <h1 class="title wow fadeInRight">Towards World Class Manufacturing</h1>
-                                <p>MN Aerospace and Precision Industries is a Aerospace start up company was established
+                                <p>JNRY Aerospace and Precision Industries is a Aerospace start up company was established
                                     on 2020 for manufacture of aerospace components and its sub assemblies.</p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
@@ -121,13 +121,13 @@
                     </div>
                 </div>
             </div>
-            <div class="header-slider-item header-bg" style="background-image:url(assets/img/bg/slide-02.jpg);">
+            <div class="header-slider-item header-bg" style="background-image:url(assets/img/edit/Autonomous_Flying_wing_Tech.jpg);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="header-inner">
                                 <!-- header inner -->
-                                <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
+                                <!-- <span class="subtitle">Welcome to JNRY Aerospace & Precision Industries</span> -->
                                 <h1 class="title wow fadeInRight">The future is our starting point</h1>
                                 <p>Every day, we’re working to help move the world forward. For our industry and
                                     customers today, and for generations to come. The future of flight starts now.</p>
@@ -139,15 +139,15 @@
                     </div>
                 </div>
             </div>
-            <div class="header-slider-item header-bg" style="background-image:url(assets/img/bg/slide-05.jpg);">
+            <div class="header-slider-item header-bg" style="background-image:url(assets/img/edit/ruav.jfif);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="header-inner">
                                 <!-- header inner -->
-                                <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
-                                <h1 class="title wow fadeInRight">MN Aerospace for a safe and united world</h1>
-                                <p>MN Aerospace always has been at the forefront of innovating new technologies, with a
+                                <!-- <span class="subtitle">Welcome to JNRY Aerospace & Precision Industries</span> -->
+                                <h1 class="title wow fadeInRight">JNRY Aerospace for a safe and united world</h1>
+                                <p>JNRY Aerospace always has been at the forefront of innovating new technologies, with a
                                     pioneering spirit that has redefined the aerospace industry. </p>
                                 <div class="btn-wrapper wow fadeInUp desktop-left padding-top-20">
                                     <!-- <a href="#" class="boxed-btn btn-hrv">Get Started</a> -->
@@ -157,13 +157,13 @@
                     </div>
                 </div>
             </div>
-            <div class="header-slider-item header-bg" style="background-image:url(assets/img/bg/slide-04.jpg);">
+            <div class="header-slider-item header-bg" style="background-image:url(assets/img/edit/manufacturing.png);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="header-inner">
                                 <!-- header inner -->
-                                <!-- <span class="subtitle">Welcome to MN Aerospace & Precision Industries</span> -->
+                                <!-- <span class="subtitle">Welcome to JNRY Aerospace & Precision Industries</span> -->
                                 <h1 class="title wow fadeInRight">Towards World Class Manufacturing</h1>
                                 <p>Design Investigation of Potential Long-Range Hydrogen Combustion Blended Wing Body
                                     Aircraft with Future Technologies.</p>
@@ -247,7 +247,7 @@
             <div class="row justify-content-start">
                 <div class="col-lg-5 remove-col-padding">
                     <div class="about-image">
-                        <img src="assets/img/bg/about-bg.png" class="img-fluid" alt="about image">
+                        <img src="assets/img/edit/1628109004_drone.jpg" class="img-fluid" alt="about image">
                         <!-- <div class="hover">
                         <a href="https://www.youtube.com/watch?v=s6NHxfKUkUo" target="_blank" class="btn-ripple-animate video-play-btn video mfp-iframe">
                             <i class="fa fa-play"></i>
@@ -258,8 +258,8 @@
                 <div class="col-lg-7 align-self-center">
                     <div class="about-area-right mb-0">
                         <div class="section-title about text-left mb-0">
-                            <h2>About MN Aerospace & Precision Industries </h2>
-                            <p>MN Aerospace leverages the strengths of their highly experienced workforce, & array of
+                            <h2>About JNRY Aerospace & Precision Industries </h2>
+                            <p>JNRY Aerospace leverages the strengths of their highly experienced workforce, & array of
                                 technologies to manufacture, aggregate & assemble components with varying specifications
                                 that meet customers exact needs.</p>
                         </div>
@@ -270,7 +270,7 @@
                                         <h4> Company History</h4>
                                         <div class="plus-minus-toggle collapsed"></div>
                                     </div>
-                                    <div class="answer">MN Aerospace and Precision Industries was established in 2020 to
+                                    <div class="answer">JNRY Aerospace and Precision Industries was established in 2020 to
                                         manufacture metallic products for exports.</div>
                                 </li>
                                 <li>
@@ -278,7 +278,7 @@
                                         <h4> Quality </h4>
                                         <div class="plus-minus-toggle collapsed"></div>
                                     </div>
-                                    <div class="answer">The scope of MN Aerospace and Precision Industries Quality
+                                    <div class="answer">The scope of JNRY Aerospace and Precision Industries Quality
                                         Management System applies to “Manufacture, Assembly of Machined Metal Components
                                         for Defence and Aerospace Industries.”</div>
                                 </li>
@@ -287,7 +287,7 @@
                                         <h4> Facilities</h4>
                                         <div class="plus-minus-toggle collapsed"></div>
                                     </div>
-                                    <div class="answer">MN Aerospace and Precision Industries was established in 2020
+                                    <div class="answer">JNRY Aerospace and Precision Industries was established in 2020
                                         lead by young entrepreneur to manufacture metallic products for exports.</div>
                                 </li>
                                 <!-- <li>
@@ -337,7 +337,7 @@
             <div class="col-xl-7 col-lg-8 text-center">
                 <div class="section-title">
                     <span class="subtitle">services maintaince</span>
-                    <h2 class="title">Our MN Aerospace services to the homes and businesses since 1980</h2>
+                    <h2 class="title">Our JNRY Aerospace services to the homes and businesses since 1980</h2>
                 </div>
             </div>  
         </div>
@@ -347,7 +347,7 @@
                     <div class="icon">
                         <i class="flaticon-man-2" aria-hidden="true"></i>
                     </div>
-                    <h5 class="title">MN Aerospace Design Installation</h5>
+                    <h5 class="title">JNRY Aerospace Design Installation</h5>
                     <p class="details">Lorem ipsum dolor sit amet, cteturs
                         adipiscing elit sedoeiusincididunt ut labore et doloremagna.</p>
                 </div>
@@ -566,7 +566,7 @@
                         <span class="subtitle">products</span>
                         <h2 class="title">Products/Outreach</h2>
                         <p>Equipped with sophisticated state-of-art manufacturing facility and extensive production
-                            capabilities MN Arerospace produces components & assemblies to stringent specifications.
+                            capabilities JNRY Arerospace produces components & assemblies to stringent specifications.
                         </p>
                     </div>
                 </div>
@@ -734,7 +734,7 @@
                                 </div>
                                 <div class="content">
                                     <span class="details">Enquiry Here <br> <a
-                                            href="mailto:info.mnaerospace@gmail.com">info.mnaerospace@gmail.com</a>
+                                            href="mailto:info.JNRYaerospace@gmail.com">info.JNRYaerospace@gmail.com</a>
                                     </span>
                                 </div>
                             </div>
@@ -769,7 +769,7 @@
                 </div>
                 <div class="col-lg-8 text-center">
                     <div class="history-content">
-                        <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020
+                        <p>JNRY Aerospace and Precision Industries is a Aerospace start up company was established on 2020
                             for manufacture of aerospace components and its sub assemblies.</p>
                     </div>
                     <div class="video">

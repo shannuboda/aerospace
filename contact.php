@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MN Aerospace & Precision Industries</title>
+    <title>JNRY Aerospace & Precision Industries</title>
      <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+     <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -120,7 +120,7 @@
                                 <h5 class="heading">Email:</h5>
                            </div>
                            <div class="content">
-                            <span class="details"><a href="mailto:info.mnaerospace@gmail.com">info.mnaerospace@gmail.com</a></span>
+                            <span class="details"><a href="mailto:info.JNRYaerospace@gmail.com">info.JNRYaerospace@gmail.com</a></span>
                         </div>
                         </li>
                         <li>
@@ -152,14 +152,14 @@
                <div class="right-content-area">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
-                        <p>MN Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p><br>
+                        <p>JNRY Aerospace and Precision Industries is a Aerospace start up company was established on 2020 for manufacture of aerospace components and its sub assemblies.</p><br>
                         <h2 class="title">Plant -1 </h2>
                         <div class="details">
-                            <p>MN Aerospace & Precision Industries. <br>Total Area-5500Sq feet, Constructed Area-2000 Sq feet. <br>Shed No. C-11, Mylanahalli Post ,KSSIDC Industrial Estate, Nelamangala Industrial Area,Nelamangala Taluk, Bangalore Rural District, Karnataka-562123, India.</p>
+                            <p>JNRY Aerospace & Precision Industries. <br>Total Area-5500Sq feet, Constructed Area-2000 Sq feet. <br>Shed No. C-11, Mylanahalli Post ,KSSIDC Industrial Estate, Nelamangala Industrial Area,Nelamangala Taluk, Bangalore Rural District, Karnataka-562123, India.</p>
                         </div><br>
                         <h2 class="title">Plant -2 </h2>
                         <div class="details">
-                            <p>MN Aerospace & Precision Industries. <br>Area: one Acre ( Under construction)<br>P-161,  Hitech-Defence and Aerospace park phase-II , Karnataka Industrial Areas Development Board (KIADB), Government of  Karnataka ,Near Kempegowda International Airport, Devanahally, Bangalore Rural District,Karnataka- 562114, India.</p>
+                            <p>JNRY Aerospace & Precision Industries. <br>Area: one Acre ( Under construction)<br>P-161,  Hitech-Defence and Aerospace park phase-II , Karnataka Industrial Areas Development Board (KIADB), Government of  Karnataka ,Near Kempegowda International Airport, Devanahally, Bangalore Rural District,Karnataka- 562114, India.</p>
                         </div>
                     </div>
                 </div>

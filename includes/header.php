@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <div class="left-contnet">
                     <!-- <span><i class="fa fa-map-marker" aria-hidden="true"></i>D-19/2, DRDO Township, Phase-1, CV Raman Nagar, Bangalore -560093.</span> -->
-                    <span><a href="mailto:info.mnaerospace@gmail.com"><i class="fa fa-envelope"></i>info.mnaerospace@gmail.com</a></span>
+                    <span><a href="mailto:info.JNRYaerospace@gmail.com"><i class="fa fa-envelope"></i>info.JNRYaerospace@gmail.com</a></span>
                     <span>GSTN: 29CQBPM1588G2ZJ</span>
                 </div>
                 <div class="right-contnet">
@@ -26,7 +26,7 @@
                 <div class="info-bar-inner">
                     <div class="logo-wrapper desktop-logo">
                         <a href="index.php" class="logo">
-                            <img src="assets/img/logo.png" alt="logo">
+                            <img src="assets/img/edit/logo.png" alt="logo">
                         </a>
                     </div>
                     <div class="right-content">
@@ -86,7 +86,7 @@
         <div class="responsive-mobile-menu">
             <div class="logo-wrapper mobile-logo">
                 <a href="index.php" class="logo">
-                    <img src="assets/img/logo.png" alt="logo">
+                    <img src="assets/img/edit/logo.png" alt="logo">
                 </a>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#coolair_main_menu" 

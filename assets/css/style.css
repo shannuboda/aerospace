@@ -4140,7 +4140,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   left: 0%;
 }
 .slick-prev:hover:before {
-  background-color: rgba(255, 128, 15, 0.8);
+  background-color: transparent;
 }
 
 .slick-next {
@@ -4179,7 +4179,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   right: 0%;
 }
 .slick-next:hover:before {
-  background-color: rgba(255, 128, 15, 0.8);
+  background-color: transparent;
 }
 
 .header-slider-two .header-slider-item {
@@ -4374,10 +4374,12 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   transition: all 0.3s ease-in;
 }
 .cooli-item-area .cooli-item-bg :after, .cooli-item-area .cooli-item-bg .single-cooli-item.active:after, .cooli-item-area .cooli-item-bg .owl-item.active:nth-of-type(2):after {
-  background: linear-gradient(360deg, #1b357a, transparent);
+/*  background: linear-gradient(19deg, #42A8A8, transparent);*/
+  background: linear-gradient(20deg, rgba(131,58,180,1) 2%, rgba(253,29,29,0.9136904761904762) 10%, rgba(252,176,69,1) 5%, transparent);
   background-color: rgba(0, 0, 0, 0.3);
   transition: all 0.3s ease-in;
 }
+
 .cooli-item-area .cooli-item-bg .item-bg, .cooli-item-area .cooli-item-bg .item-bg.single-cooli-item.active, .cooli-item-area .cooli-item-bg .item-bg.owl-item.active:nth-of-type(2) {
   background-color: var(--heading-color);
 }
@@ -4421,7 +4423,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   z-index: -1;
 }
 .cooli-item-area .cooli-item-bg .single-cooli-item.item-bg {
-  background-image: url(../img/item/01.png);
+  background-image: url(../img/edit/Prachand.avif);
   background-position: center;
   background-size: cover;
   transition: all 0.5s ease-in;

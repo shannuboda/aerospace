@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MN Aerospace & Precision Industries</title>
+    <title>JNRY Aerospace & Precision Industries</title>
      <!-- favicon -->
-     <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+     <link rel=icon href=logo.ico sizes="20x20" type="image/png">
     <!-- animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -112,7 +112,7 @@
                 <div class="section-title">
                     <!-- <span class="subtitle">From blog</span> -->
                     <h2 class="title">Infrastructure Facility </h2>
-                    <p>MN Aerospace and Precision Industries was established in 2020 lead by young entrepreneur to manufacture metallic products for exports . Since then, the company is into manufacturing and supplying of world class engineering products for leading aerospace sectors. Over the years, the company has forayed into manufacturing of high quality precision engineered components and subassemblies for Defence , Aerospace and Automobile Sectors.</p>
+                    <p>JNRY Aerospace and Precision Industries was established in 2020 lead by young entrepreneur to manufacture metallic products for exports . Since then, the company is into manufacturing and supplying of world class engineering products for leading aerospace sectors. Over the years, the company has forayed into manufacturing of high quality precision engineered components and subassemblies for Defence , Aerospace and Automobile Sectors.</p>
                     <p>Now the manufacturing plant  is under expanding to area of 44,000 sq ft  at  Hitech-Defence and Aerospace park phase-II , KIADB Industrial Area, Near Kempegowda International Airport, Devanahally, Bangalore Rural District- Karnataka 562114 and special process plant also expansion to 5,500 sq ft at KSSIDC Industrail Area, Nelamangala taluk, Bangalore rural- 562123.</p>
                 </div>
             </div>
@@ -123,7 +123,7 @@
                     <!-- <span class="subtitle">From blog</span> -->
                     <h2 class="title">Our Key Infrastructure to be installed in june 2024 </h2>
                     <p>CNC Turning Center,CNC Milling Machine ,CNC Vertical Turn mill Center,CNC Horizontal machining Center ,CNC 5-Axis Blade Machining Center,Jig Boring Machine,CNC Grinding Machine,CNC EDM,CNC Micro EDM Hole Drilling,Laser drilling Machine,High Speed Blade Tip Grinder,CNC Flexible Profile Grinder,CNC Broaching Machine, Balancing Machine .</p>
-                    <p>MN Aerospace and Precision Industries depends on Tier-2 and Tier-3 vendors  for Vacuum Heat Treatment ,Gas Nitriding,Thermal spray coating facility,Robotic Shot Peening Facility,Vibro tumbling/polishing,Grit blasting,High temperature Vacuum brazing,Pack aluminizing ,Platinum Electroplating ,EBPVD facility,CNC Pipe Bending Machine,EB Welding Machine,Spot Welding Machine,Orbital tube Welding Machine,Automatic orbital welding.</p>
+                    <p>JNRY Aerospace and Precision Industries depends on Tier-2 and Tier-3 vendors  for Vacuum Heat Treatment ,Gas Nitriding,Thermal spray coating facility,Robotic Shot Peening Facility,Vibro tumbling/polishing,Grit blasting,High temperature Vacuum brazing,Pack aluminizing ,Platinum Electroplating ,EBPVD facility,CNC Pipe Bending Machine,EB Welding Machine,Spot Welding Machine,Orbital tube Welding Machine,Automatic orbital welding.</p>
                 </div>
             </div>
         </div>
